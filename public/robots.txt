@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://sdacademy.co.in/sitemap.xml
+
+# Disallow admin routes
+Disallow: /admin/
+Disallow: /login
